@@ -38,7 +38,7 @@ SSH key based authentication configured.
   hosts: localhost
 
   roles:
-    - role: rywillia.ssh-copy-id
+    - role: joebibe.ssh-copy-id
       vars:
         hostname: 127.0.0.1
         username: username
@@ -55,4 +55,4 @@ GPLv3
 Author Information
 ------------------
 
-Ryan Williams
+MBENGUE Joseph
