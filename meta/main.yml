@@ -1,14 +1,14 @@
 galaxy_info:
-  author: Ryan Williams
+  author: Mbengue Joseph
   description: Inject SSH public key into remote system
   license: GPLv3
   min_ansible_version: 2.0
 
   platforms:
-    - name: EL
+    - name: Debian
       versions:
         - all
-    - name: Fedora
+    - name: Stretch
       versions:
         - all
 
